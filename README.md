@@ -124,7 +124,7 @@ To run the system, execute "Main.py".
 
   6). Features.py.  Obtian 7 lip features: Width, height, area, intensity, orientation, the x-value of central point and the y value of central point. (Lip features are instored in 'Feature' folder and 'Sheet' folder)
 
-To run the system, execute "Main.py".
+To run the system, execute "Main.py".  
 
 
 ### License
