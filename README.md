@@ -1,4 +1,15 @@
 # Gabor-based lipreading systems
+
+
+### Gabor features
+The first GIF displays the original video where the speaker says "bin blue at e one again". The second GIF demonstrates the Gabor features of the changes in the lip area during the utterance of "bin blue at e one again". The image presents the curve of the lip area changes during the pronunciation of "bin blue at e one again".
+
+<div style="display:flex;justify-content:space-between;">
+    <img src="https://github.com/YX536/Gabor-based-lipreading-system/blob/main/bbae1a.gif" width="300" />
+    <img src="https://github.com/YX536/Gabor-based-lipreading-system/blob/main/Area.gif" width="300" />
+   <img src="https://github.com/YX536/Gabor-based-lipreading-system/blob/main/Area.png" width="300" />
+</div>
+
 This repository provides the code for lip feature extraction systems described . We also offer an updated version of the lip feature extraction system: 'FirstFrame' Gabor-based lip feature extraction system.
 
 + [Gabor features](#gabor-features)
@@ -10,16 +21,6 @@ This repository provides the code for lip feature extraction systems described .
 + [Citation](#citation)
 + [License](#license)
 + [Contact](#contact)
-
-### Gabor features
-The first GIF displays the original video where the speaker says "bin blue at e one again". The second GIF demonstrates the Gabor features of the changes in the lip area during the utterance of "bin blue at e one again". The image presents the curve of the lip area changes during the pronunciation of "bin blue at e one again".
-
-<div style="display:flex;justify-content:space-between;">
-    <img src="https://github.com/YX536/Gabor-based-lipreading-system/blob/main/bbae1a.gif" width="300" />
-    <img src="https://github.com/YX536/Gabor-based-lipreading-system/blob/main/Area.gif" width="300" />
-   <img src="https://github.com/YX536/Gabor-based-lipreading-system/blob/main/Area.png" width="300" />
-</div>
-
 ### Environment
 All package versions are recorded in the "Packages.txt" file.
 
